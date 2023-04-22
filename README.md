@@ -1,8 +1,8 @@
 <div align="center">
-<h2> Hello! 👋 </h2>
+<h2> Hello! 🐲 </h2>
 
 <div>
-     <p>My name is Anastasia and I am Frontend developer from Samara</p>
+      <h3> My name is Anastasia and I am Frontend developer from Samara</h3>
      <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="150"/>
 </div>
      </div>
