@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-<img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="200"/>
+<img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="150"/>
      
 <!--
 **Melbourne42/Melbourne42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
