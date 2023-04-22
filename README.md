@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 <div>
-     <p>My name is Anastasia amd I am Frontend developer from Samara</p>
+     <p>My name is Anastasia and I am Frontend developer from Samara</p>
      <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="150"/>
 </div>
      
