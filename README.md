@@ -14,5 +14,6 @@
 ### Connect with me:
 <a href="https://t.me/jozsif" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="25"/></a>
 </br>
-<a target="blank">funnytyme@mail.ru</a>
-<img src="https://svgsilh.com/svg/504778.svg" width="25"/>
+<img src="https://svgsilh.com/svg/504778.svg" width="25"/> 
+<a target="blank"> funnytyme@mail.ru</a>
+
